@@ -1,0 +1,22 @@
+#calculatrice {
+  width: 400px;
+  height: 500px;
+  display: flex;
+  flex-wrap: wrap;
+}
+button {
+  width: 100px;
+  height: 100px;
+}
+#calcul {
+  width: 390px;
+  display: flex;
+  justify-content: flex-end;
+}
+* {
+  font-size: 20px;
+}
+#container {
+  width: 400px;
+  border: solid gray;
+}
